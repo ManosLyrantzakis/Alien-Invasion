@@ -1,2 +1,0 @@
-# Python-Game
-ALIEN INVASION
